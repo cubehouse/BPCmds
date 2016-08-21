@@ -1,0 +1,19 @@
+{
+	"FileVersion" : 3,
+	"FriendlyName" : "Blueprint Console Commands",
+	"Version" : 1,
+	"VersionName" : "1.0",
+	"CreatedBy" : "@cube",
+	"CreatedByURL" : "http://jamie.holdings",
+	"EngineVersion" : "4.12.5",
+	"Description" : "Handle console commands in Blueprint",
+	"Category" : "Blueprints",
+	"EnabledByDefault" : true,
+	"Modules" :
+	[
+		{
+			"Name" : "BPCmds",
+			"Type" : "Runtime"
+		}
+	]
+}
