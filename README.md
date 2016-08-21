@@ -12,4 +12,5 @@ Press \` to open the console in-game, and type the command "test". Your Blueprin
 
 ## Caveats
 
-Your Cmd* function must not return any value.
+* Your Cmd* function must not return any value.
+* Commands won't auto-complete
